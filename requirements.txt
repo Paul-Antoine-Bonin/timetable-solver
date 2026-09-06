@@ -1,0 +1,4 @@
+# Runtime and development dependencies.
+# Install with:  pip install -r requirements.txt && pip install -e .
+ortools>=9.10
+pytest>=8

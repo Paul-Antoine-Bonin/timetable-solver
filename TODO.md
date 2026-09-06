@@ -10,7 +10,7 @@ actually in use.
 - Anonymise the names before any commit.
 
 ## Steps
-- [ ] Set up repo, PuLP or OR-Tools dependency
+- [x] Set up repo, OR-Tools dependency
 - [ ] Formalise the problem: decision variables, what an assigned slot means
 - [ ] Hard constraints: no room clash, no teacher clash, no group clash, room capacity
 - [ ] Volume constraints: every course must get its number of hours
